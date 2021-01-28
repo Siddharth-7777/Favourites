@@ -1,0 +1,82 @@
+.hibby {
+  text-align: center;
+  background: linear-gradient(#ff0000 0%, #ffff00 100%);
+  background-color: yellow;
+  background-repeat: no-repeat;
+  
+}
+
+h1 {
+  text-shadow: 2px 2px #ff9900;  
+}
+
+
+.hobby {
+  color: blue;
+}
+
+.button {
+  color: brown;
+}
+
+img {
+  width: 300px;
+  height: 225px;
+  border-radius: 180px;
+  margin: 100px;
+}
+
+.give {
+  font-family: 'Fraunces', serif;
+  color: green;
+}
+
+.make {
+  color: purple;
+}
+
+.parae {
+  text-align: center;
+  background-color: pink;
+  
+}
+
+body {
+  
+}
+
+#e {
+  font-family: Arial;
+  text-shadow: none;
+}
+
+.line {
+  background-color: black;
+  width: 100px;
+  height: 5px;
+  margin: 5px auto;
+}
+
+.menu {
+ list-style: none;
+ font-family: 'Fraunces', serif;
+ position: absolute;
+ top: 10px;
+ right: 30px;
+ z-index: 10;
+ cursor: pointer;
+}
+
+.links {
+ float: left;
+ color: pink;
+ font-weight: bold;
+ padding-top: 5px;
+ padding-left: 9px;
+ padding-right: 0px;
+}
+
+.links:hover {
+ background-color: indigo;
+}
+

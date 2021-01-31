@@ -1,4 +1,4 @@
-.hibby {
+#hibby {
   text-align: center;
   background: linear-gradient(#ff0000 0%, #ffff00 100%);
   background-color: yellow;
@@ -32,7 +32,7 @@ img {
   color: purple;
 }
 
-.parae {
+#parae {
   text-align: center;
   background-color: pink;
   
@@ -73,7 +73,7 @@ body {
 }
 
 .links:hover {
- background-color: indigo;
+ background-color: white;
 }
 
 body {
@@ -84,7 +84,7 @@ html {
  scroll-behavior: smooth;
 }
 
-.review {
+#review {
  background-color: turquoise;
 }
 
@@ -93,6 +93,6 @@ html {
  font-weight: bold;
 }
 
-.working {
+#working {
  background-color: aqua;
 }

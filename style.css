@@ -122,3 +122,7 @@ html {
 #picture2:hover {
  transform: scale(0.9)
 }
+
+#contact {
+ background-color: red;
+}
